@@ -1,4 +1,4 @@
-package io.codedecode.designpattern;
+package io.java.designpattern;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
