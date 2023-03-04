@@ -8,7 +8,6 @@ public class TraineeProfessionAbstractFactory extends AbstractFactory{
 		  if(typeOfProfession == null){
 	         return null;
 	      }		
-	         
 		  else if(typeOfProfession.equalsIgnoreCase("Engineer")){
 	         return new TraineeEngineer();
 	         
